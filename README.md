@@ -1,2 +1,2 @@
 # OrbitalSkins
-A repo for my various many skins
+A repo for my various pngs
