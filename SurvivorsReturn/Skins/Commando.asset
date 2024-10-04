@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7be09e9a22eec4d4aa1b735607c1881c, type: 3}
+  m_Name: Commando
+  m_EditorClassIdentifier: 
+  modDependency:
+    value: 
+    type: 0
+  config:
+    generateEnableConfig: 0
+    enableConfigDefaultValue: 1
+    isExpanded: 1
+  bodyName: CommandoBody
+  nameTokenLocalizations:
+  - language: en
+    value: MK II
+  icon:
+    createFromColors: 1
+    sprite: {fileID: 0}
+    colors:
+      left:
+        serializedVersion: 2
+        rgba: 4270633
+      top:
+        serializedVersion: 2
+        rgba: 4096193
+      right:
+        serializedVersion: 2
+        rgba: 9556716
+      bottom:
+        serializedVersion: 2
+        rgba: 4998998
+    isExpanded: 1
+  unlockableName: Return
+  baseSkins:
+  - accessType: 0
+    name: 
+    index: 0
+    isExpanded: 1
+  renderersSource: 0
+  meshReplacements:
+  - mesh: {fileID: 7518791949524457743, guid: cc06be63dbe91bb40b63e02af9c49c35, type: 3}
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 0
+      isExpanded: 1
+  - mesh: {fileID: 7518791949524457743, guid: cc06be63dbe91bb40b63e02af9c49c35, type: 3}
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 3
+      isExpanded: 1
+  - mesh: {fileID: 5417045502517620029, guid: 02944b95e3450ab48b6f378afb452b41, type: 3}
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 6
+      isExpanded: 1
+  gameObjectActivations: []
+  rendererInfos:
+  - defaultMaterial: {fileID: 2100000, guid: 2a59760cfc28a9b43bac7771a2ee6cc6, type: 2}
+    defaultShadowCastingMode: 1
+    ignoreOverlays: 0
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 0
+      isExpanded: 1
+  - defaultMaterial: {fileID: 2100000, guid: 2a59760cfc28a9b43bac7771a2ee6cc6, type: 2}
+    defaultShadowCastingMode: 1
+    ignoreOverlays: 0
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 3
+      isExpanded: 1
+  - defaultMaterial: {fileID: 2100000, guid: 2a59760cfc28a9b43bac7771a2ee6cc6, type: 2}
+    defaultShadowCastingMode: 1
+    ignoreOverlays: 0
+    rendererReference:
+      accessType: 0
+      name: 
+      index: 6
+      isExpanded: 1
+  minionSkinReplacements: []
+  projectileGhostReplacements: []
